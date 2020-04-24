@@ -1,2 +1,6 @@
 my first file in the repo
+<<<<<<< HEAD
 the file has been updated
+=======
+doing changes in order to test pull
+>>>>>>> 74978dc036731f2c7ea6a75627a5bd513e8b7b3b
